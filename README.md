@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/akash-agasur/four-card-section1)
-- Live Site URL: [vercel Link](https://qrcode-vitthal.netlify.app/)
+- Live Site URL: [vercel Link](https://four-card-section1.vercel.app/)
 
 ### ScreenShot
 
